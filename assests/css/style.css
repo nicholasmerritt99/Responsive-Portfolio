@@ -389,32 +389,7 @@
         margin: 6px 0;
       }
 
-      .p1 {
-        position: absolute;
-        top: 150px;
-        margin-right: 20%;
-        line-height: 20px;
-      }
-    
-      .p2 {
-        position: absolute;
-        top: 290px;
-        margin-right: 20%;
-        line-height: 20px;
-      }
-    
-      .p3 {
-        position: absolute;
-        top: 380px;
-        margin-right: 20%;
-        line-height: 20px;
-      }
-    
-      .p4 {
-        position: absolute;
-        top: 440px;
-        margin-right: 20%;
-      }
+
     
       body {
         background-image: url('../images/gravel.png');
