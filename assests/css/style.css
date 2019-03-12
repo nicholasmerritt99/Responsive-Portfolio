@@ -334,7 +334,7 @@
     
       .myname2 {
         background-color: #4aaaa5;
-        height: 50px;
+        height: 20px;
         width: 16%;
         margin: auto;
         color: white;
@@ -342,20 +342,20 @@
         position: fixed;
         top: 4.5%;
         right: 65%;
-        font-size: 30px;
+        font-size: 10px;
       }
     
     .aboutsection {
       margin:  auto;
-      height: 470px;
-      width: 960px;
+      height: 270px;
+      width: 560px;
       background-color: white;
       }
     
     .abouttitle {
       color: #4aaaa5;
-      height: 50px;
-      width: 80%;
+      height: 30px;
+      width: 60%;
       margin-bottom: 20px;
       margin-top: 50px;
       position: absolute;
