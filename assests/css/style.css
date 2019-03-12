@@ -321,8 +321,8 @@
     @media only screen and (max-width : 768px) {
       #mynameh1 {
         background-color: #4aaaa5;
-        height: 20px;
-        width: 16%;
+        height: 30px;
+        width: 20%;
         margin: auto;
         color: white;
         text-align: center;
@@ -334,7 +334,7 @@
     
       .myname2 {
         background-color: #4aaaa5;
-        height: 20px;
+        height: 30px;
         width: 16%;
         margin: auto;
         color: white;
@@ -348,7 +348,7 @@
     .aboutsection {
       margin:  auto;
       height: 270px;
-      width: 560px;
+      width: 500px;
       background-color: white;
       }
     
@@ -382,33 +382,38 @@
         padding-right: 2px;
       }
     
-      .p1 {
+      .menu {
         width: 35px;
         height: 5px;
         background-color: black;
         margin: 6px 0;
-        
+      }
+
+      .p1 {
+        position: absolute;
+        top: 150px;
+        margin-right: 20%;
+        line-height: 20px;
       }
     
       .p2 {
-        width: 35px;
-        height: 5px;
-        background-color: black;
-        margin: 6px 0;
+        position: absolute;
+        top: 290px;
+        margin-right: 20%;
+        line-height: 20px;
       }
     
       .p3 {
-        width: 35px;
-        height: 5px;
-        background-color: black;
-        margin: 6px 0;
+        position: absolute;
+        top: 380px;
+        margin-right: 20%;
+        line-height: 20px;
       }
     
       .p4 {
-        width: 35px;
-        height: 5px;
-        background-color: black;
-        margin: 6px 0;
+        position: absolute;
+        top: 440px;
+        margin-right: 20%;
       }
     
       body {
