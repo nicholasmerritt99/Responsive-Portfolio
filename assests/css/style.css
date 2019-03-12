@@ -318,7 +318,7 @@
       font-family: 'Srisakdi', cursive;
     }
 
-    @media only screen and (max-width : 320px) {
+    @media only screen and (max-width : 768px) {
       #mynameh1 {
         background-color: #4aaaa5;
         height: 20px;
