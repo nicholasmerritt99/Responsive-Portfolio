@@ -1,0 +1,648 @@
+#mynameh1 {
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 16%;
+    margin: auto;
+    color: white;
+    text-align: center;
+    position: fixed;
+    top: 5.6%;
+    right: 65%;
+  }
+
+  .myname2 {
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 16%;
+    margin: auto;
+    color: white;
+    text-align: center;
+    position: fixed;
+    top: 5.6%;
+    right: 65%;
+  }
+
+.aboutsection {
+  margin:  auto;
+  height: 470px;
+  width: 960px;
+  background-color: white;
+  }
+
+.abouttitle {
+  color: #4aaaa5;
+  height: 50px;
+  width: 80%;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  position: absolute;
+  top: 30px;
+  left: 45px;
+  background-color: white;
+  border-bottom: 2px solid grey;
+  display: inline-block;
+  line-height: 0.85;
+  }
+
+  .atitle {
+    margin: auto;
+    text-decoration: underline;
+    position: fixed;
+    top: 17%;
+    left: 19%;
+  }
+
+  .Profilepic {
+    height: 100px;
+    width: 150px;
+    float: left;
+    padding-right: 5px;
+  }
+
+  .p1 {
+    position: absolute;
+    top: 150px;
+    margin-right: 20%;
+    line-height: 20px;
+  }
+
+  .p2 {
+    position: absolute;
+    top: 290px;
+    margin-right: 20%;
+    line-height: 20px;
+  }
+
+  .p3 {
+    position: absolute;
+    top: 380px;
+    margin-right: 20%;
+    line-height: 20px;
+  }
+
+  .p4 {
+    position: absolute;
+    top: 440px;
+    margin-right: 20%;
+  }
+
+  body {
+    background-image: url('../images/gravel.png');
+    border-color: white;
+  }
+
+  .tablinks1 {
+    position: fixed;
+    top: 9%;
+    left: 65%;
+    width: 60px;
+    height: 15px;
+    color: black;
+    border-right: 2px solid black;
+    display: inline-block;
+    line-height: 0.85;
+    text-decoration: none;
+  }
+
+  .tablinks2 {
+    position: fixed;
+    top: 9%;
+    left: 70%;
+    width: 60px;
+    height: 15px;
+    color: black;
+    border-right: 2px solid black;
+    display: inline-block;
+    line-height: 0.85;
+    text-decoration: none;
+  }
+
+  .tablinks3 {
+    position: fixed;
+    top: 9%;
+    left: 75%;
+    width: 60px;
+    height: 15px;
+    color: black;
+    display: inline-block;
+    line-height: 0.85;
+    text-decoration: none;
+  }
+
+  footer{
+    background-color: black;
+    border-top: 8px solid #4aaaa5;
+    display: inline-block;
+    line-height: 0.85;
+    color: white;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    text-align: center;
+  }
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  input[type=submit]:hover {
+    background-color: purple;
+    color: pink;
+  }
+
+  .form {
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+    width: 62%;
+    height: 72%;
+    margin-left: 275px;
+    position: fixed;
+    top: 14%;
+    left: 260;
+  }
+
+  .header {
+    width: 100%;
+    height: 90px;
+    background-color: white;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+  }
+
+  #wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:960px;
+  }
+
+  .abouttitle2 {
+    color: #4aaaa5;
+    height: 50px;
+    width: 80%;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    position: absolute;
+    top: 0px;
+    left: 45px;
+    background-color: white;
+    border-bottom: 2px solid grey;
+    display: inline-block;
+    line-height: 0.85;
+  }
+
+  .business {
+    width: 150px;
+    height: 160px;
+    position: absolute;
+    top: 25%;
+    left: 5%;
+
+  }
+
+  .portfoliosection {
+    margin:  auto;
+    height: 500px;
+    width: 960px;
+    background-color: white;
+    }
+
+    .sports {
+      width: 150px;
+      height: 160px;
+      position: absolute;
+      top: 25%;
+      left: 25%;
+    }
+
+    .food {
+      width: 150px;
+      height: 160px;
+      position: absolute;
+      top: 25%;
+      left: 45%;
+    }
+
+    .technics {
+      width: 150px;
+      height: 160px;
+      position: absolute;
+      top: 65%;
+      left: 5%;
+    }
+
+    .fun {
+      width: 150px;
+      height: 160px;
+      position: absolute;
+      top: 65%;
+      left: 25%;
+    }
+
+    .bottom-left1 {
+      position: absolute;
+      top: 50%;
+      left: 5%;
+      background-color: #4aaaa5;
+      width: 15.6%;
+      height: 6%;
+      text-align: center;
+      color: white;
+      font-family: 'Srisakdi', cursive;
+    }
+
+    .bottom-left2 {
+      position: absolute;
+      top: 50%;
+      left: 25%;
+      background-color: #4aaaa5;
+      width: 15.6%;
+      height: 6%;
+      text-align: center;
+      color: white;
+      font-family: 'Srisakdi', cursive;
+    }
+
+    .bottom-left3 {
+      position: absolute;
+      top: 50%;
+      left: 45%;
+      background-color: #4aaaa5;
+      width: 15.6%;
+      height: 6%;
+      text-align: center;
+      color: white;
+      font-family: 'Srisakdi', cursive;
+    }
+
+    .bottom-left4 {
+      position: absolute;
+      top: 90%;
+      left: 5%;
+      background-color: #4aaaa5;
+      width: 15.6%;
+      height: 6%;
+      text-align: center;
+      color: white;
+      font-family: 'Srisakdi', cursive;
+    }
+
+    .bottom-left5 {
+      position: absolute;
+      top: 90%;
+      left: 25%;
+      background-color: #4aaaa5;
+      width: 15.6%;
+      height: 6%;
+      text-align: center;
+      color: white;
+      font-family: 'Srisakdi', cursive;
+    }
+
+    @media only screen and (min-width : 1824px) {
+      #mynameh1 {
+        background-color: #4aaaa5;
+        height: 50px;
+        width: 16%;
+        margin: auto;
+        color: white;
+        text-align: center;
+        position: fixed;
+        top: 2%;
+        right: 65%;
+        font-size: 30px;
+      }
+    
+      .myname2 {
+        background-color: #4aaaa5;
+        height: 50px;
+        width: 16%;
+        margin: auto;
+        color: white;
+        text-align: center;
+        position: fixed;
+        top: 4.5%;
+        right: 65%;
+        font-size: 30px;
+      }
+    
+    .aboutsection {
+      margin:  auto;
+      height: 470px;
+      width: 960px;
+      background-color: white;
+      }
+    
+    .abouttitle {
+      color: #4aaaa5;
+      height: 50px;
+      width: 80%;
+      margin-bottom: 20px;
+      margin-top: 50px;
+      position: absolute;
+      top: 30px;
+      left: 45px;
+      background-color: white;
+      border-bottom: 2px solid grey;
+      display: inline-block;
+      line-height: 0.85;
+      }
+    
+      .atitle {
+        margin: auto;
+        text-decoration: underline;
+        position: fixed;
+        top: 17%;
+        left: 19%;
+      }
+    
+      .Profilepic {
+        height: 100px;
+        width: 150px;
+        float: left;
+        padding-right: 5px;
+      }
+    
+      .p1 {
+        position: absolute;
+        top: 150px;
+        margin-right: 20%;
+        line-height: 20px;
+      }
+    
+      .p2 {
+        position: absolute;
+        top: 290px;
+        margin-right: 20%;
+        line-height: 20px;
+      }
+    
+      .p3 {
+        position: absolute;
+        top: 380px;
+        margin-right: 20%;
+        line-height: 20px;
+      }
+    
+      .p4 {
+        position: absolute;
+        top: 440px;
+        margin-right: 20%;
+      }
+    
+      body {
+        background-image: url('../images/gravel.png');
+        border-color: white;
+      }
+    
+      .tablinks1 {
+        position: fixed;
+        top: 9%;
+        left: 65%;
+        width: 60px;
+        height: 15px;
+        color: black;
+        border-right: 2px solid black;
+        display: inline-block;
+        line-height: 0.85;
+        text-decoration: none;
+      }
+    
+      .tablinks2 {
+        position: fixed;
+        top: 9%;
+        left: 70%;
+        width: 60px;
+        height: 15px;
+        color: black;
+        border-right: 2px solid black;
+        display: inline-block;
+        line-height: 0.85;
+        text-decoration: none;
+      }
+    
+      .tablinks3 {
+        position: fixed;
+        top: 9%;
+        left: 75%;
+        width: 60px;
+        height: 15px;
+        color: black;
+        display: inline-block;
+        line-height: 0.85;
+        text-decoration: none;
+      }
+    
+      footer{
+        background-color: black;
+        border-top: 8px solid #4aaaa5;
+        display: inline-block;
+        line-height: 0.85;
+        color: white;
+        height: 50px;
+        width: 100%;
+        position: fixed;
+        bottom: 0%;
+        left: 0%;
+        text-align: center;
+      }
+    
+      input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+    
+      input[type=submit] {
+        background-color: #4CAF50;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+    
+      input[type=submit]:hover {
+        background-color: purple;
+        color: pink;
+      }
+    
+      .form {
+        border-radius: 5px;
+        background-color: white;
+        padding: 20px;
+        width: 62%;
+        height: 72%;
+        margin-left: 275px;
+        position: fixed;
+        top: 14%;
+        left: 260;
+      }
+    
+      .header {
+        width: 100%;
+        height: 90px;
+        background-color: white;
+        position: fixed;
+        top: 0%;
+        left: 0%;
+      }
+    
+      #wrapper {
+        margin-left:auto;
+        margin-right:auto;
+        width:960px;
+      }
+    
+      .abouttitle2 {
+        color: #4aaaa5;
+        height: 50px;
+        width: 80%;
+        margin-bottom: 20px;
+        margin-top: 50px;
+        position: absolute;
+        top: 0px;
+        left: 45px;
+        background-color: white;
+        border-bottom: 2px solid grey;
+        display: inline-block;
+        line-height: 0.85;
+      }
+    
+      .business {
+        width: 150px;
+        height: 160px;
+        position: absolute;
+        top: 25%;
+        left: 5%;
+    
+      }
+    
+      .portfoliosection {
+        margin:  auto;
+        height: 500px;
+        width: 960px;
+        background-color: white;
+        }
+    
+        .sports {
+          width: 150px;
+          height: 160px;
+          position: absolute;
+          top: 25%;
+          left: 25%;
+        }
+    
+        .food {
+          width: 150px;
+          height: 160px;
+          position: absolute;
+          top: 25%;
+          left: 45%;
+        }
+    
+        .technics {
+          width: 150px;
+          height: 160px;
+          position: absolute;
+          top: 65%;
+          left: 5%;
+        }
+    
+        .fun {
+          width: 150px;
+          height: 160px;
+          position: absolute;
+          top: 65%;
+          left: 25%;
+        }
+    
+        .bottom-left1 {
+          position: absolute;
+          top: 50%;
+          left: 5%;
+          background-color: #4aaaa5;
+          width: 15.6%;
+          height: 6%;
+          text-align: center;
+          color: white;
+          font-family: 'Srisakdi', cursive;
+        }
+    
+        .bottom-left2 {
+          position: absolute;
+          top: 50%;
+          left: 25%;
+          background-color: #4aaaa5;
+          width: 15.6%;
+          height: 6%;
+          text-align: center;
+          color: white;
+          font-family: 'Srisakdi', cursive;
+        }
+    
+        .bottom-left3 {
+          position: absolute;
+          top: 50%;
+          left: 45%;
+          background-color: #4aaaa5;
+          width: 15.6%;
+          height: 6%;
+          text-align: center;
+          color: white;
+          font-family: 'Srisakdi', cursive;
+        }
+    
+        .bottom-left4 {
+          position: absolute;
+          top: 90%;
+          left: 5%;
+          background-color: #4aaaa5;
+          width: 15.6%;
+          height: 6%;
+          text-align: center;
+          color: white;
+          font-family: 'Srisakdi', cursive;
+        }
+    
+        .bottom-left5 {
+          position: absolute;
+          top: 90%;
+          left: 25%;
+          background-color: #4aaaa5;
+          width: 15.6%;
+          height: 6%;
+          text-align: center;
+          color: white;
+          font-family: 'Srisakdi', cursive;
+        }
+      }
+  
+
+
+
+  
