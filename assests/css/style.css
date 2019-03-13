@@ -353,13 +353,13 @@
     
     .abouttitle {
       color: #4aaaa5;
-      height: 70px;
-      width: 40%;
+      height: 0px;
+      width: 35%;
       margin-bottom: 20px;
       margin-top: 50px;
       position: absolute;
       top: 30px;
-      left: 25px;
+      left: 35px;
       background-color: white;
       border-bottom: 2px solid grey;
       display: inline-block;
@@ -418,7 +418,7 @@
       .tablinks1 {
         position: fixed;
         top: 9%;
-        left: 40%;
+        left: 30%;
         width: 50px;
         height: 15px;
         color: black;
