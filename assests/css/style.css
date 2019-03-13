@@ -322,28 +322,26 @@
       #mynameh1 {
         background-color: #4aaaa5;
         height: 30px;
-        width: 100%;
+        width: 400px;
+        color: white;
+        text-align: center;
+        position: fixed;
+        top: 2%;
+        right: 40%;
+        font-size: 20px;
+      }
+    
+      .myname2 {
+        background-color: #4aaaa5;
+        height: 30px;
+        width: 400px;
         margin: auto;
         color: white;
         text-align: center;
         position: fixed;
         top: 2%;
         right: 40%;
-        font-size: 15px;
-        padding-top: 2px;
-      }
-    
-      .myname2 {
-        background-color: #4aaaa5;
-        height: 40px;
-        width: 40%;
-        margin: auto;
-        color: white;
-        text-align: center;
-        position: fixed;
-        top: 4.5%;
-        right: 55%;
-        font-size: 15px;
+        font-size: 20px;
       }
     
     .aboutsection {
@@ -393,7 +391,7 @@
     
       .p2 {
         position: absolute;
-        top: 260px;
+        top: 110px;
         margin-right: 20%;
         line-height: 10px;
         font-size: 8px;
@@ -401,7 +399,7 @@
     
       .p3 {
         position: absolute;
-        top: 350px;
+        top: 200px;
         margin-right: 20%;
         line-height: 10px;
         font-size: 8px;
@@ -409,7 +407,7 @@
     
       .p4 {
         position: absolute;
-        top: 410px;
+        top: 260px;
         margin-right: 20%;
         font-size: 8px;
         line-height: 10px;
