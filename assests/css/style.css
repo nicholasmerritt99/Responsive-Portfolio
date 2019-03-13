@@ -321,7 +321,7 @@
     @media only screen and (max-width : 768px) {
       #mynameh1 {
         background-color: #4aaaa5;
-        height: 30px;
+        height: 40px;
         width: 20%;
         margin: auto;
         color: white;
@@ -334,7 +334,7 @@
     
       .myname2 {
         background-color: #4aaaa5;
-        height: 30px;
+        height: 40px;
         width: 16%;
         margin: auto;
         color: white;
@@ -346,20 +346,20 @@
       }
     
     .aboutsection {
-      height: 270px;
-      width: 500px;
+      height: 570px;
+      width: 200px;
       background-color: white;
       }
     
     .abouttitle {
       color: #4aaaa5;
-      height: 30px;
-      width: 60%;
+      height: 70px;
+      width: 40%;
       margin-bottom: 20px;
       margin-top: 50px;
       position: absolute;
       top: 30px;
-      left: 45px;
+      left: 25px;
       background-color: white;
       border-bottom: 2px solid grey;
       display: inline-block;
@@ -372,13 +372,6 @@
         position: fixed;
         top: 17%;
         left: 19%;
-      }
-    
-      .Profilepic {
-        height: 50px;
-        width: 75px;
-        float: left;
-        padding-right: 2px;
       }
 
       .p1 {
