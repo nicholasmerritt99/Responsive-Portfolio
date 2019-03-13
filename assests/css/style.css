@@ -389,14 +389,44 @@
         margin: 6px 0;
       }
 
+      .container {
+        display: inline-block;
+        cursor: pointer;
+      }
 
+      .p1 {
+        position: absolute;
+        top: 150px;
+        margin-right: 20%;
+        line-height: 20px;
+      }
+    
+      .p2 {
+        position: absolute;
+        top: 290px;
+        margin-right: 20%;
+        line-height: 20px;
+      }
+    
+      .p3 {
+        position: absolute;
+        top: 380px;
+        margin-right: 20%;
+        line-height: 20px;
+      }
+    
+      .p4 {
+        position: absolute;
+        top: 440px;
+        margin-right: 20%;
+      }
     
       body {
         background-image: url('../images/gravel.png');
         border-color: white;
       }
     
-      .tablinks1 {
+      .tablinks1 .tablinks2 .tablinks3 {
         position: fixed;
         top: 9%;
         left: 65%;
@@ -409,29 +439,17 @@
         text-decoration: none;
       }
     
-      .tablinks2 {
-        position: fixed;
-        top: 9%;
-        left: 70%;
-        width: 60px;
-        height: 15px;
-        color: black;
-        border-right: 2px solid black;
-        display: inline-block;
-        line-height: 0.85;
-        text-decoration: none;
+      .change .tablinks1  {
+        -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
+        transform: rotate(-45deg) translate(-9px, 6px) ;
       }
-    
-      .tablinks3 {
-        position: fixed;
-        top: 9%;
-        left: 75%;
-        width: 60px;
-        height: 15px;
-        color: black;
-        display: inline-block;
-        line-height: 0.85;
-        text-decoration: none;
+
+      .change .tablinks2{
+          opacity: 0;
+      }
+      .change .tablinks3 {
+        -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
+        transform: rotate(45deg) translate(-8px, -8px) ;
       }
     
       footer{
