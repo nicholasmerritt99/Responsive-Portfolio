@@ -348,7 +348,7 @@
     
     .aboutsection {
       height: 570px;
-      width: 400px;
+      width: 350px;
       background-color: white;
       }
     
@@ -359,12 +359,13 @@
       margin-bottom: 20px;
       margin-top: 50px;
       position: absolute;
-      top: 30px;
+      top: 20px;
       left: 35px;
       background-color: white;
       border-bottom: 2px solid grey;
       display: inline-block;
       line-height: 0.85;
+      text-align: center;
       }
     
       .atitle {
@@ -388,6 +389,7 @@
         top: 150px;
         margin-right: 20%;
         line-height: 20px;
+        font-size: 10px;
       }
     
       .p2 {
@@ -395,6 +397,7 @@
         top: 290px;
         margin-right: 20%;
         line-height: 20px;
+        font-size: 10px;
       }
     
       .p3 {
@@ -402,12 +405,14 @@
         top: 380px;
         margin-right: 20%;
         line-height: 20px;
+        font-size: 10px;
       }
     
       .p4 {
         position: absolute;
         top: 440px;
         margin-right: 20%;
+        font-size: 10px;
       }
     
       body {
