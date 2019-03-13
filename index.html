@@ -8,8 +8,8 @@
         <link rel="stylesheet" type="text/css" href="assests/css/style.css">
         <title>My Portfolio</title>
         <script type="text/javascript">
-        function myFunction(x) {
-            x.classList.toggle("change"); 
+        function myFunction(bar) {
+            bar.classList.toggle("change"); 
         }
         </script>
 </head>
@@ -20,7 +20,7 @@
                 <div class="header">
                                 <span inline>
                                         <h1 inline id="mynameh1">Nicholas Merritt</h1>
-                                    <div class="container">
+                                    <div class="container" onclick="myFunction(bar)">
                                        <div class="menu"> 
                                            <a class="tablinks1" href="index.html">About</a>
                                         </div>
