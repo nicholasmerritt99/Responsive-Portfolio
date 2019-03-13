@@ -363,7 +363,8 @@
       left: 35px;
       background-color: white;
       border-bottom: 2px solid grey;
-
+      display: inline-block;
+      line-height: 1.85;
       }
     
       .atitle {
