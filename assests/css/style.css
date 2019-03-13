@@ -322,7 +322,7 @@
       #mynameh1 {
         background-color: #4aaaa5;
         height: 30px;
-        width: 40%;
+        width: 100%;
         margin: auto;
         color: white;
         text-align: center;
@@ -450,7 +450,7 @@
       .tablinks3 {
         position: fixed;
         top: 10%;
-        left: 45%;
+        left: 50%;
         width: 60px;
         height: 15px;
         color: black;
