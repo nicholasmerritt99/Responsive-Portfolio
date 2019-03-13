@@ -356,16 +356,15 @@
       color: #4aaaa5;
       height: 0px;
       width: 35%;
-      margin-bottom: 20px;
-      margin-top: 50px;
+      margin-bottom: 10px;
+      margin-top: 20px;
       position: absolute;
-      top: 20px;
+      top: 10px;
       left: 35px;
       background-color: white;
       border-bottom: 2px solid grey;
       display: inline-block;
       line-height: 0.85;
-      text-align: center;
       }
     
       .atitle {
