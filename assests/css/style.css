@@ -335,19 +335,19 @@
       .myname2 {
         background-color: #4aaaa5;
         height: 40px;
-        width: 16%;
+        width: 20%;
         margin: auto;
         color: white;
         text-align: center;
         position: fixed;
         top: 4.5%;
-        right: 65%;
-        font-size: 10px;
+        right: 55%;
+        font-size: 15px;
       }
     
     .aboutsection {
       height: 570px;
-      width: 200px;
+      width: 300px;
       background-color: white;
       }
     
@@ -371,7 +371,15 @@
         text-decoration: underline;
         position: fixed;
         top: 17%;
-        left: 19%;
+        left: 10%;
+      }
+
+      .Profilepic {
+        height: 100px;
+        width: 150px;
+        float: left;
+        padding-right: 5px;
+        display: none;
       }
 
       .p1 {
