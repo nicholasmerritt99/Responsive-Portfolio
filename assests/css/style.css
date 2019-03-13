@@ -362,9 +362,8 @@
       top: 10px;
       left: 35px;
       background-color: white;
-      border-bottom: 10px solid grey;
-      display: inline-block;
-      line-height: 0.85;
+      border-bottom: 2px solid grey;
+
       }
     
       .atitle {
