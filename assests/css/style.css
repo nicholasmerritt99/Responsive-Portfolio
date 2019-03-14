@@ -355,9 +355,8 @@
       color: #4aaaa5;
       height: 0px;
       width: 35%; 
-      padding-bottom: 5px;
       position: absolute;
-      top: 10px;
+      top: 5px;
       left: 35px;
       }
     
@@ -523,7 +522,7 @@
         height: 50px;
         width: 60%;
         position: absolute;
-        top: 0px;
+        top: 0%;
         left: 45px;
       }
     
