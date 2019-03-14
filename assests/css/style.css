@@ -524,16 +524,11 @@
         color: #4aaaa5;
         height: 50px;
         width: 60%;
-        margin-bottom: 20px;
         /* margin-top: 50px; */
         position: absolute;
         top: 0px;
         left: 45px;
         background-color: white;
-        border-bottom: 2px solid grey;
-        display: inline-block;
-        line-height: 0.85;
-        font-size: 15px;
       }
     
       .business {
