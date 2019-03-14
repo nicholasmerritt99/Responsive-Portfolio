@@ -521,8 +521,8 @@
         color: #4aaaa5;
         height: 20px;
         width: 60%;
-        position: absolute;
-        top: 0%;
+        position: fixed;
+        top: 40%;
         left: 45px;
       }
     
