@@ -345,7 +345,7 @@
       }
     
     .aboutsection {
-      height: 560px;
+      height: 550px;
       width: 320px;
       background-color: white;
       padding-left: 5px;
@@ -503,7 +503,7 @@
         margin-left: 275px;
         position: fixed;
         top: 14%;
-        left: 260;
+        left: 200;
       }
     
       .header {
