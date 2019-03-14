@@ -525,7 +525,7 @@
         height: 50px;
         width: 60%;
         margin-bottom: 20px;
-        margin-top: 50px;
+        /* margin-top: 50px; */
         position: absolute;
         top: 0px;
         left: 45px;
@@ -533,11 +533,12 @@
         border-bottom: 2px solid grey;
         display: inline-block;
         line-height: 0.85;
+        font-size: 15px;
       }
     
       .business {
-        width: 150px;
-        height: 160px;
+        width: 100px;
+        height: 110px;
         position: absolute;
         top: 25%;
         left: 5%;
