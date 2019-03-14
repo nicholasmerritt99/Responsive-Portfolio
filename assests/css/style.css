@@ -1,13 +1,13 @@
 #mynameh1 {
     background-color: #4aaaa5;
     height: 50px;
-    width: 16%;
+    width: 100%;
     margin: auto;
     color: white;
     text-align: center;
     position: fixed;
-    top: 5.6%;
-    right: 65%;
+    top: 0%;
+    left: 0%;
   }
 
   .myname2 {
