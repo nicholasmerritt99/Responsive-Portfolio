@@ -322,12 +322,12 @@
       #mynameh1 {
         background-color: #4aaaa5;
         height: 30px;
-        width: 400px;
+        width: 100%;
         color: white;
         text-align: center;
         position: fixed;
-        top: 2%;
-        right: 40%;
+        top: 0%;
+        left: 0%;
         font-size: 20px;
       }
     
@@ -345,7 +345,7 @@
       }
     
     .aboutsection {
-      height: 570px;
+      height: 560px;
       width: 320px;
       background-color: white;
       }
