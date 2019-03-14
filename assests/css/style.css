@@ -545,10 +545,10 @@
       }
     
       .portfoliosection {
-        margin:  auto;
         height: 500px;
-        width: 960px;
+        width: 320px;
         background-color: white;
+        padding-left: 5px;
         }
     
         .sports {
