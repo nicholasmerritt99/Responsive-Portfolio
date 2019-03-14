@@ -321,7 +321,7 @@
     @media only screen and (max-width : 768px) {
       #mynameh1 {
         background-color: #4aaaa5;
-        height: 30px;
+        height: 40px;
         width: 100%;
         color: white;
         text-align: center;
@@ -333,14 +333,14 @@
     
       .myname2 {
         background-color: #4aaaa5;
-        height: 30px;
-        width: 400px;
+        height: 40px;
+        width: 100%;
         margin: auto;
         color: white;
         text-align: center;
         position: fixed;
-        top: 2%;
-        right: 40%;
+        top: 0%;
+        left: 0%;
         font-size: 20px;
       }
     
