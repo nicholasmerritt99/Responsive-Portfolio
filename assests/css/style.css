@@ -602,10 +602,11 @@
           top: 52%;
           left: 35%;
           background-color: #4aaaa5;
-          width: 15.6%;
+          width: 16%;
           height: 6%;
           text-align: center;
           color: white;
+          font-size: 5px;
           font-family: 'Srisakdi', cursive;
         }
     
