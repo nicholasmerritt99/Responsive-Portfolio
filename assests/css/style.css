@@ -530,7 +530,7 @@
         height: 100px;
         position: absolute;
         top: 10%;
-        left: 10%;
+        left: 20%;
     
       }
     
@@ -546,7 +546,7 @@
           height: 100px;
           position: absolute;
           top: 10%;
-          left: 40%;
+          left: 50%;
         }
     
         .food {
@@ -554,7 +554,7 @@
           height: 100px;
           position: absolute;
           top: 35%;
-          left: 40%;
+          left: 50%;
         }
     
         .technics {
@@ -562,7 +562,7 @@
           height: 100px;
           position: absolute;
           top: 35%;
-          left: 10%;
+          left: 20%;
         }
     
         .fun {
@@ -570,13 +570,13 @@
           height: 100px;
           position: absolute;
           top: 60%;
-          left: 10%;
+          left: 20%;
         }
     
         .bottom-left1 {
           position: absolute;
           top: 26%;
-          left: 10%;
+          left: 20%;
           background-color: #4aaaa5;
           width: 15.6%;
           height: 6%;
@@ -588,7 +588,7 @@
         .bottom-left2 {
           position: absolute;
           top: 26%;
-          left: 40%;
+          left: 50%;
           background-color: #4aaaa5;
           width: 15.6%;
           height: 6%;
@@ -600,7 +600,7 @@
         .bottom-left3 {
           position: absolute;
           top: 51%;
-          left: 40%;
+          left: 50%;
           background-color: #4aaaa5;
           width: 16%;
           height: 6%;
@@ -613,7 +613,7 @@
         .bottom-left4 {
           position: absolute;
           top: 51%;
-          left: 10%;
+          left: 20%;
           background-color: #4aaaa5;
           width: 15.6%;
           height: 6%;
@@ -626,7 +626,7 @@
         .bottom-left5 {
           position: absolute;
           top: 76%;
-          left: 10%;
+          left: 20%;
           background-color: #4aaaa5;
           width: 18%;
           height: 6%;
