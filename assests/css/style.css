@@ -490,9 +490,7 @@
       }
     
       .form {
-        border-radius: 5px;
         background-color: white;
-        padding: 20px;
         width: 62%;
         height: 72%;
         position: fixed;
