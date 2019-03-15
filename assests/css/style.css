@@ -625,13 +625,14 @@
     
         .bottom-left5 {
           position: absolute;
-          top: 70%;
+          top: 75%;
           left: 5%;
           background-color: #4aaaa5;
-          width: 15.6%;
+          width: 16%;
           height: 6%;
           text-align: center;
           color: white;
+          font-size: 11px;
           font-family: 'Srisakdi', cursive;
         }
       }
