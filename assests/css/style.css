@@ -527,8 +527,8 @@
       }
     
       .business {
-        width: 100px;
-        height: 110px;
+        width: 90px;
+        height: 100px;
         position: absolute;
         top: 10%;
         left: 5%;
@@ -543,32 +543,32 @@
         }
     
         .sports {
-          width: 100px;
-          height: 110px;
+          width: 90px;
+          height: 100px;
           position: absolute;
           top: 10%;
           left: 35%;
         }
     
         .food {
-          width: 100px;
-          height: 110px;
+          width: 90px;
+          height: 100px;
           position: absolute;
           top: 25%;
           left: 45%;
         }
     
         .technics {
-          width: 100px;
-          height: 110px;
+          width: 90px;
+          height: 100px;
           position: absolute;
           top: 65%;
           left: 5%;
         }
     
         .fun {
-          width: 100px;
-          height: 110px;
+          width: 90px;
+          height: 100px;
           position: absolute;
           top: 65%;
           left: 30%;
