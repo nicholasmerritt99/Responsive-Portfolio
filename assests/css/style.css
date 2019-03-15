@@ -530,7 +530,7 @@
         width: 100px;
         height: 110px;
         position: absolute;
-        top: 15%;
+        top: 10%;
         left: 5%;
     
       }
@@ -546,8 +546,8 @@
           width: 100px;
           height: 110px;
           position: absolute;
-          top: 15%;
-          left: 25%;
+          top: 10%;
+          left: 35%;
         }
     
         .food {
