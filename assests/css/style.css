@@ -501,7 +501,7 @@
         left: 260;
       }
     
-      .action {
+      /* .action { */
         background-color: white;
         position: fixed;
         top: 20%;
