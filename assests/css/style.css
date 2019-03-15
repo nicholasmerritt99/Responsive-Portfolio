@@ -505,6 +505,11 @@
         position: fixed;
         top: 20%;
         left: 10%;
+        border-radius: 5px;
+        padding: 20px;
+        width: 42%;
+        height: 62%;
+        margin-left: 275px;
       }
     
       .header {
