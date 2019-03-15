@@ -606,13 +606,13 @@
           height: 6%;
           text-align: center;
           color: white;
-          font-size: 5px;
+          font-size: 8px;
           font-family: 'Srisakdi', cursive;
         }
     
         .bottom-left4 {
           position: absolute;
-          top: 90%;
+          top: 52%;
           left: 5%;
           background-color: #4aaaa5;
           width: 15.6%;
