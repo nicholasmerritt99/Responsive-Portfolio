@@ -530,7 +530,7 @@
         width: 100px;
         height: 110px;
         position: absolute;
-        top: 25%;
+        top: 15%;
         left: 5%;
     
       }
@@ -546,7 +546,7 @@
           width: 100px;
           height: 110px;
           position: absolute;
-          top: 25%;
+          top: 15%;
           left: 25%;
         }
     
@@ -571,7 +571,7 @@
           height: 110px;
           position: absolute;
           top: 65%;
-          left: 25%;
+          left: 30%;
         }
     
         .bottom-left1 {
